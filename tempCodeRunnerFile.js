@@ -1,0 +1,1 @@
+const shortGreeting = `Welcome, ${currentUser}`;
